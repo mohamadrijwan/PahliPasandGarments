@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PahliPasand
+namespace PahliPasandGarments
 {
     public class FilterConfig
     {

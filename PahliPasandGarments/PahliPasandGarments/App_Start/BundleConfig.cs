@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace PahliPasand
+namespace PahliPasandGarments
 {
     public class BundleConfig
     {
